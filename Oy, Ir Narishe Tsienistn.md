@@ -5,7 +5,7 @@
 > איר מעגט דאָך גײן צו דעם אַרבעטער און לערנען בײַ אים שׂכל.‎  
 > איר װילט אונדז פֿירן קײן ירושלים, מיר זאָלן דאָרט גאָלאָדאַיען.‎  
 > מיר װעלן בעסער זײַן אין רוסנלאַנד, מיר װעלן זיך באַפֿרײַען.‎  
-> 
+>
 > <sup>Oj, ir narisze tsienistn, mit ajer nariszn sejchl,  
 > Ir megt doch gejn tsu dem arbeter un lernen baj im sejchl.  
 > Ir vilt undz firn kejn Jeruszalajim, mir zoln dort golodajen.  
@@ -29,12 +29,11 @@ We would rather be in Russia; we shall liberate ourselves.
 > В Иерушалаим идти за вами не желаем,  
 > Мы в Рассее останемся бороться с Николаем!  
 > Мы в рассеяньи останемся бороться с Николаем!  
-> 
-> <sup>Glupeńkie sionisty, vy takie utopisty.  
+> <sub>Glupeńkie sionisty, vy takie utopisty.  
 > Vy by lučše šli v rabočie ili v trubočisty.  
 > V Ierušalaim idti za vami ne želaem,  
 > My v Rasseje ostanemsja borot́sja s Nikolaem!  
-> My v rassejańi ostanemsja borot́sja s Nikolaem!</sup>
+> My v rassejańi ostanemsja borot́sja s Nikolaem!</sub>
 
 ```
 Foolish Zionists, you are such utopians.  
