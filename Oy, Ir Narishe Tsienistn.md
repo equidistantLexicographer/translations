@@ -10,14 +10,12 @@
 > Ir megt doch gejn tsu dem arbeter un lernen baj im sejchl.  
 > Ir vilt undz firn kejn Jeruszalajim, mir zoln dort golodajen.  
 > Mir veln beser zajn in Rusnland, mir veln zich bafrajen.</sup>  
-
 ```
 Oh, you foolish Zionists, with your foolish mind,
 You may go to the worker and learn sense from him.
 You want to lead us to Jerusalem; we ought to starve there.
 We would rather be in Russia; we shall liberate ourselves.
 ```
-
 > Oh, you foolish little Zionists, with your utopian mentality,  
 > You'd better go down to the factory and learn the worker's reality.  
 > You want to take us to Jerusalem so we can die as a nation;  
@@ -34,7 +32,6 @@ We would rather be in Russia; we shall liberate ourselves.
 > V Ierušalaim idti za vami ne želaem,  
 > My v Rasseje ostanemsja borot́sja s Nikolaem!  
 > My v rassejańi ostanemsja borot́sja s Nikolaem!</sub>
-
 ```
 Foolish Zionists, you are such utopians.  
 You had better go into being workers or into being chimneysweeps.  
