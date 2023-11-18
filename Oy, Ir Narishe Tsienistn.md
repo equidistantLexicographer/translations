@@ -33,9 +33,9 @@ We would rather be in Russia; we shall liberate ourselves.
 > My v Rassěě ostaněmsja borot́sja s Nikolaěm!  
 > My v rassějańi ostaněmsja borot́sja s Nikolaěm!</sub>
 ```
-Foolish Zionists, you are such utopians.  
-You had better go into being workers or into being chimneysweeps.  
-We do not wish to go with you to Jerusalem;  
-We shall remain in Russia to fight Nicholas!  
-We shall remain in diaspora to fight Nicholas!  
+Foolish Zionists, you are such utopians.
+You had better go into being workers or into being chimneysweeps.
+We do not wish to go with you to Jerusalem;
+We shall remain in Russia to fight Nicholas!
+We shall remain in diaspora to fight Nicholas!
 ```
