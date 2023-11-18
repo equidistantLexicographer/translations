@@ -30,8 +30,8 @@ We would rather be in Russia; we shall liberate ourselves.
 > <sub>Glupeńkiě sionisty, vy takiě utopisty.  
 > Vy by lučšě šli v rabočiě ili v trubočisty.  
 > V Iěrušalaim idti za vami ně žělaěm,  
-> My v Rassěě ostaněmsja borot́sja s Nikolaěm!  
-> My v rassějańi ostaněmsja borot́sja s Nikolaěm!</sub>
+> My v Rassěě ostaněmsja boroťsja s Nikolaěm!  
+> My v rassějańi ostaněmsja boroťsja s Nikolaěm!</sub>
 ```
 Foolish Zionists, you are such utopians.
 You had better go into being workers or into being chimneysweeps.
