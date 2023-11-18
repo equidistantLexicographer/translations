@@ -27,11 +27,11 @@ We would rather be in Russia; we shall liberate ourselves.
 > В Иерушалаим идти за вами не желаем,  
 > Мы в Рассее останемся бороться с Николаем!  
 > Мы в рассеяньи останемся бороться с Николаем!  
-> <sub>Glupeńkie sionisty, vy takie utopisty.  
-> Vy by lučše šli v rabočie ili v trubočisty.  
-> V Ierušalaim idti za vami ne želaem,  
-> My v Rasseje ostanemsja borot́sja s Nikolaem!  
-> My v rassejańi ostanemsja borot́sja s Nikolaem!</sub>
+> <sub>Glupeńkiě sionisty, vy takiě utopisty.  
+> Vy by lučšě šli v rabočiě ili v trubočisty.  
+> V Iěrušalaim idti za vami ně žělaěm,  
+> My v Rassěě ostaněmsja borot́sja s Nikolaěm!  
+> My v rassějańi ostaněmsja borot́sja s Nikolaěm!</sub>
 ```
 Foolish Zionists, you are such utopians.  
 You had better go into being workers or into being chimneysweeps.  
