@@ -6,7 +6,7 @@
 > איר װילט אונדז פֿירן קײן ירושלים, מיר זאָלן דאָרט גאָלאָדאַיען.‎  
 > מיר װעלן בעסער זײַן אין רוסנלאַנד, מיר װעלן זיך באַפֿרײַען.‎  
 >
-> <sup>Oj, ir nariše tsienistn, mit ajer narišn sejxl,  
+> <sup>Oj, ir nariše cienistn, mit ajer narišn sejxl,  
 > Ir megt dox gejn cu dem arbeter un lernen baj im sejxl.  
 > Ir vilt undz firn kejn Jerušalajim, mir zoln dort golodajen.  
 > Mir veln beser zajn in Rusnland, mir veln zix bafrajen.</sup>  
