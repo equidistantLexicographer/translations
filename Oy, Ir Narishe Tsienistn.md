@@ -1,4 +1,4 @@
-# [Oy, Ir Narishe Tsienistn / אוי, איר נאַרישע ציִעניסטן](https://open.spotify.com/track/2jz4CPMMExlPEq13S6MKes?si=5d50cdc43c5042de)
+# [Oy, Ir Narishe Tsienistn / אוי, איר נאַרישע ציִעניסטן](https://open.spotify.com/track/2jz4CPMMExlPEq13S6MKes)
 
 
 > אוי, איר נאַרישע ציִעניסטן, מיט אײַער נאַרישן שׂכל,‎  
@@ -6,10 +6,10 @@
 > איר װילט אונדז פֿירן קײן ירושלים, מיר זאָלן דאָרט גאָלאָדאַיען.‎  
 > מיר װעלן בעסער זײַן אין רוסנלאַנד, מיר װעלן זיך באַפֿרײַען.‎  
 >
-> <sup>Oj, ir narisze tsienistn, mit ajer nariszn sejchl,  
-> Ir megt doch gejn tsu dem arbeter un lernen baj im sejchl.  
-> Ir vilt undz firn kejn Jeruszalajim, mir zoln dort golodajen.  
-> Mir veln beser zajn in Rusnland, mir veln zich bafrajen.</sup>  
+> <sup>Oj, ir nariše tsienistn, mit ajer narišn sejxl,  
+> Ir megt dox gejn cu dem arbeter un lernen baj im sejxl.  
+> Ir vilt undz firn kejn Jerušalajim, mir zoln dort golodajen.  
+> Mir veln beser zajn in Rusnland, mir veln zix bafrajen.</sup>  
 ```
 Oh, you foolish Zionists, with your foolish mind,
 You may go to the worker and learn sense from him.
@@ -39,3 +39,4 @@ We do not wish to go with you to Jerusalem;
 We shall remain in Russia to fight Nicholas!
 We shall remain in diaspora to fight Nicholas!
 ```
+###### 12.02.23
