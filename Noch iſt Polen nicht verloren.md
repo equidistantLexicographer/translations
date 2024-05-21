@@ -34,7 +34,7 @@ German Might unites.
 
 Far to the free Lands of France
 Carried the Ray of Hope.
-Noble Poles—alas they found
+Noble Poles—alas, they found
 Only a Time of Tears.
 
 Yet when Need and Woe amass,
