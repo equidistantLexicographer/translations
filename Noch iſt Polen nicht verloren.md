@@ -27,7 +27,7 @@ Germany is awakened.
 Chosen to the Poles' Aid,
 German Might unites.
 
- German Swords, German Strength—
+ German Swords, German Force—
  Are the Poles' strong Prop;
  Poland shall then be free,
  Free from Tyranny!
