@@ -18,7 +18,7 @@ I zadrży wróg,
 i zginie wróg
 z ręki ludowych mas.
 ```
-> *Młodzieży o ludowym wojsku polskim.* Poland, Wydawn. Ministerstwa Obrony Narodowej, 1960. p. 32.
+> *Młodzieży o ludowym wojsku polskim.* Poland, Ministerstwa Obrony Narodowej. 1960. p. 32.
 ```
 We from burnt-down villages,
 We from starving towns.
