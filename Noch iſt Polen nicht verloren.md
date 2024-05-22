@@ -24,22 +24,22 @@ Geht der Feind zu Grund.
 ```
 Poland is not yet lost,
 Germany is awakened.
-Chosen to the Poles' Aid,
-German Might unites.
+Chosen to the Poles' aid,
+German might unites.
 
- German Swords, German Force—
- Are the Poles' strong Prop;
+ German swords, German force—
+ Are the Poles' strong prop;
  Poland shall then be free,
- Free from Tyranny!
+ Free from tyranny!
 
-Far to the free Lands of France
-Carried the Ray of Hope.
+Far to the free lands of France
+Carried the ray of hope.
 Noble Poles—alas, they found
-Only a Time of Tears.
+Only a time of tears.
 
-Yet when Need and Woe amass,
-The Hour of Need waxes.
-When the Poles' Avengers storm,
-Perishes the Foe.
+Yet when need and woe amass,
+The hour of need waxes.
+When the Poles' avengers storm,
+Perishes the foe.
 ```
 ###### 21.05.24
