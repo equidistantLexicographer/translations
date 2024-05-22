@@ -25,7 +25,7 @@ Geht der Feind zu Grund.
 Poland is not yet lost,
 Germany is awakened.
 Chosen to the Poles' aid,
-German might unites.
+German power unites.
 
  German swords, German force—
  Are the Poles' strong prop;
