@@ -1,23 +1,24 @@
 # [Marsz Gwardii Ludowej](https://open.spotify.com/track/2hsVl7Y2cnFTynceZtAxxY)
 ```
 My ze spalonych wsi,
-my z głodujących miast.
+My z głodujących miast.
 Za głód, za krew, 
-za lata łez
-już zemsty nadszedł czas.
+Za lata łez
+Już zemsty nadszedł czas.
 
 Więc zarepetuj broń
-i w serce wroga mierz!
+I w serce wroga mierz!
 Dudni już krok,
-milionów krok,
-brzmi partyzancki śpiew.
+Milionów krok,
+Brzmi partyzancki śpiew.
 
 Więc naprzód, Gwardio, marsz!
 Świat płonie wokół nas.
 I zadrży wróg,
-i zginie wróg
-z ręki ludowych mas.
+I zginie wróg
+Z ręki ludowych mas.
 ```
+Based on
 > *Młodzieży o ludowym wojsku polskim.* Ministerstwa Obrony Narodowej. 1960. 32.
 ```
 We from burnt-down villages,
