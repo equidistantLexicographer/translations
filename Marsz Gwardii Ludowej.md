@@ -18,7 +18,7 @@ I zadrży wróg,
 I zginie wróg
 Z ręki ludowych mas.
 ```
-Based from
+Adapted from
 > *Młodzieży o ludowym wojsku polskim.* Ministerstwa Obrony Narodowej. 1960. 32.
 ```
 We from burnt-down villages,
