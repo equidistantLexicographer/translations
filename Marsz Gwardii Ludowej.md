@@ -39,4 +39,4 @@ And the enemy will come to tremble,
 and the enemy will perish
 at the hand of the popular masses.
 ```
-###### 21.05.24
+###### 18.06.24
