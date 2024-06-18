@@ -20,7 +20,7 @@ Wächst der Hülfe Stund.
 Wenn der Polen Rächer ſtürmen,
 Geht der Feind zu Grund.
 ```
-From
+Adapted from
 > *Volksstimmen: Sammlung von Gesängen für alle Deutsche.* 1832. 84-85.
 ```
 Poland is not yet lost,
