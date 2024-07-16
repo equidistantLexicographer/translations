@@ -14,7 +14,6 @@ Ljubav ne raspari
 Žbiri ni žandari
 Niti poglavari.
 ```
-Traditional lyrics.
 ```
 Love is neither sold nor bought.
 Who knows not how to love, let not begin.
@@ -24,4 +23,5 @@ Neither the Mura nor the Drava washes it out from the heart.
 
 Neither spies, gendarmes, nor prefects tear apart love.
 ```
+<sup>Traditional lyrics.</sup>
 ###### 16.07.24
