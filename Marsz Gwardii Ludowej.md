@@ -18,25 +18,26 @@ I zadrży wróg,
 I zginie wróg
 Z ręki ludowych mas.
 ```
-Adapted from
-> *Młodzieży o ludowym wojsku polskim.* Ministerstwa Obrony Narodowej. 1960. 32.
 ```
 We from burnt-down villages,
 We from starving towns.
 For hunger, for blood,
-for years of tears
-has the hour of vengeance already come.
+For years of tears
+Has the hour of vengeance already come.
 
 So recock your gun
-and aim at the enemy's heart!
+And aim at the enemy's heart!
 A footstep already rumbles,
-the footstep of millions,
-partisan singing resounds.
+The footstep of millions,
+Partisan singing resounds.
 
 So march, O Guard, forward!
 The world around us burns.
 And the enemy will come to tremble,
-and the enemy will perish
-at the hand of the popular masses.
+And the enemy will perish
+At the hand of the popular masses.
 ```
-###### 18.06.24
+<sub>Adapted from</sub>
+
+<sup>*Młodzieży o ludowym wojsku polskim.* Ministerstwa Obrony Narodowej. 1960. 32.</sup>
+###### 16.07.24
