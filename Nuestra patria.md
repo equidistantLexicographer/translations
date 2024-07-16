@@ -18,8 +18,6 @@ Tus hijos jamás permitirán
 Que así te robe
 Tu bienestar y libertad.
 ```
-Adapted from
-> *Nuestra patria.* Wikipedia. 18.06.2024. https://es.wikipedia.org/wiki/Nuestra_patria
 ```
 Our Philippine fatherland,
 Whose land is of gold and purple,
@@ -39,4 +37,7 @@ Thy children never shall permit
 That it should rob thee
 Thy welfare and liberty.
 ```
+<sub>Adapted from</sub>
+
+<sup>*Nuestra patria.* Wikipedia. 18.06.2024. es.wikipedia.org/wiki/Nuestra_patria.</sup>
 ###### 18.06.24
