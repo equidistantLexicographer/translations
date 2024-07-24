@@ -23,5 +23,5 @@ With his legs upwards.
 ```
 <sub>Original transcription. As heard in</sub>
 
-<sup>*Stonehill0840- Marsh-nign.* Stonehill Collection. 08.06.2019. soundcloud.com/stonehill-collection/polish-hymn.</sup>
+<sup>*Stonehill0840- Marsh-nign.* Stonehill Collection. SoundCloud. 08.06.2019. soundcloud.com/stonehill-collection/polish-hymn.</sup>
 ###### 25.07.24
