@@ -23,5 +23,5 @@ Neither the Mura nor the Drava washes it out from the heart.
 
 Neither spies, gendarmes, nor prefects tear apart love.
 ```
-<sup>Traditional lyrics.</sup>
+<sub>Traditional lyrics.</sub>
 ###### 16.07.24
