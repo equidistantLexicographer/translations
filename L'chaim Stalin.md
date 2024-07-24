@@ -54,6 +54,4 @@ For Stalin's constitution!
 <sub>As heard in</sub>
 
 <sup>*L'chaim Stalin.* Daniel Kahn - Topic. YouTube. 03.09.20. www.youtube.com/watch?v=MuZDEphRbes.</sup>
-
-<sub>Romanization based on Czech system.</sub>
 ###### 24.07.24
