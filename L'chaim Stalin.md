@@ -1,4 +1,4 @@
-# [לעכײַיִמ סטאלינ / ʟᴇxᴀᴊɪᴍ sᴛᴀʟɪɴ](https://open.spotify.com/track/5duD5qX31jQy8UVwQYjVch)
+# [L'chaim Stalin](https://open.spotify.com/track/5duD5qX31jQy8UVwQYjVch)
 ```
 ,ס׳האָט געלעבט בא אונדז א כאװער
 .ער איז געווענ א יאט א בראװער
