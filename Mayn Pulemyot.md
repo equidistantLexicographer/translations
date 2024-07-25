@@ -51,7 +51,7 @@ Who did not know it?
 Now it is empty, without people;
 Oh, the homes are burnt down.
 
-But there is a red army here,
+But there is a Red Army,
 She gave me a machine-gun;
 Oh, I strike and I strike the Germans
 So that our people may yet live.
