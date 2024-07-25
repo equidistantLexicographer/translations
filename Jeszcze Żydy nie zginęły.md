@@ -11,7 +11,7 @@ Do góry nogami.
  Niech mu życie zgaśnie.
 ```
 ```
-The Jews have not yet perished
+The Jews have not yet perished,
 So long as God is over us.
 Hitler will yet have hanged
 With his legs upwards.
