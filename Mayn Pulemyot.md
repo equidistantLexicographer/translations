@@ -2,8 +2,8 @@
 ```
 ליג איכ לעבנ פּוליעמיאָט
 אונ שעפטשע א ייִדישנ ניגנ.
-ארומ מיר איז אלצ שטיל,
-נאָר ס׳טוענ די גרעזעלעכ זיכ װיגנ.
+ ארומ מיר איז אלצ שטיל,
+ נאָר ס׳טוענ די גרעזעלעכ זיכ װיגנ.
 
 כ׳דערמאָנ זיכ מײַנ פרײלעכ שטעטל,
 װער האָט עס ניט געקענט?
@@ -25,8 +25,8 @@
 <pre>
 <sup>LIG IX LEBN PULJEMJOT</sup>
 <sup>UN ŠEFTŠE A JIDIŠN NIGN.</sup>
-<sup>ARUM MIR IZ ALC ŠTIL,</sup>
-<sup>NOR S’TUEN DI GREZELEX ZIX VIGN.</sup>
+<sup> ARUM MIR IZ ALC ŠTIL,</sup>
+<sup> NOR S’TUEN DI GREZELEX ZIX VIGN.</sup>
 
 <sup>X’DERMON ZIX MAJN FREJLEX ŠTETL,</sup>
 <sup>VER HOT ES NIT GEKENT?</sup>
@@ -48,8 +48,8 @@
 ```
 I lie next to the machine-gun
 And whisper a Jewish tune.
-All is still around me,
-Only the little grasses sway.
+ All is still around me,
+ Only the grasslings sway.
 
 I remember my jolly shtetl;
 Who did not know it?
