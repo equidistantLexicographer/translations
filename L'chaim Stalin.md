@@ -23,6 +23,9 @@ s'ʜᴏᴛ ɢᴇʟᴇʙᴛ ʙᴀ ᴜɴᴅᴢ ᴀ xᴀᴠᴇʀ,
 Будь здоров, товарищ Сталин!
 Мы тебя поём и хвалим.
 
+Have a drink to comrade Stalin,
+Hear the voice of Stalin callin'.
+
 פאר אָקטאָבערס רעװאָליוציע,
 פאר דעמ סטאלינס קאָנסטיטוציע!
 ғᴀʀ ᴏᴋᴛᴏʙᴇʀs ʀᴇᴠᴏʟᴊᴜᴄᴊᴇ,
@@ -54,4 +57,4 @@ For Stalin's constitution!
 <sub>As heard in</sub>
 
 <sup>*L'chaim Stalin.* Daniel Kahn - Topic. YouTube. 03.09.20. www.youtube.com/watch?v=MuZDEphRbes.</sup>
-###### 25.07.24
+###### 28.07.24
