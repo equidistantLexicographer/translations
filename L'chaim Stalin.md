@@ -47,6 +47,9 @@ Our dear comrade Stalin.
 Bless you, comrade Stalin!
 We sing and praise you.
 
+Have a drink to comrade Stalin,
+Hear the voice of Stalin callin'.
+
 For October's revolution,
 For Stalin's constitution!
 ```
