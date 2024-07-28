@@ -33,7 +33,7 @@
 <sup>ICT IZ ES PUST, ON MENTŠN,</sup>
 <sup>OJ, ZAJNEN DI ŠTIBER FARBRENT.</sup>
 
-<sup>NOR S’IZ DO A ROJTER ARMEJ,</sup>
+<sup>NOR S’IZ DO A ROJTE ARMEJ,</sup>
 <sup>HOT ZI MIR A PULJEMJOT GEGEBN,</sup>
 <sup>O, ŠLOG IX UN ŠLOG IX DI DAJTŠN</sup>
 <sup>KEDEJ UNDZER FOLK ZOL DOX LEBN.</sup>
