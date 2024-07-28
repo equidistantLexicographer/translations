@@ -67,7 +67,7 @@ For Stalin's constitution!
 ```
 <sub>Original transcription. Based on Soviet orthography.</sub>
 
-<sup>*Soviet Yiddish: language planning and linguistic development.* G. Estraikh. Clarendon Press. 1999. 126.</sup>
+<sup>*Soviet Yiddish: language planning and linguistic development.* G. Estraikh. Oxford University Press. 1999. 126.</sup>
 
 <sub>As heard in</sub>
 
