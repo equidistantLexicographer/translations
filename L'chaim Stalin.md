@@ -65,7 +65,7 @@ Hear the voice of Stalin callin'.
 For October's revolution,
 For Stalin's constitution!
 ```
-<sub>Original transcription. Based on information from</sub>
+<sub>Original transcription based on Soviet orthography. Based on information from</sub>
 
 <sup>*Soviet Yiddish: language planning and linguistic development.* G. Estraikh. Clarendon Press. 1999.</sup>
 
