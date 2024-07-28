@@ -2,23 +2,15 @@
 ```
 ס׳האָט געלעבט בא אונדז א כאװער,
 ער איז געווענ א יאט א בראװער.
-s'ʜᴏᴛ ɢᴇʟᴇʙᴛ ʙᴀ ᴜɴᴅᴢ ᴀ xᴀᴠᴇʀ,
-ᴇʀ ɪᴢ ɢᴇᴠᴇɴ ᴀ ᴊᴀᴛ ᴀ ʙʀᴀᴠᴇʀ.
 
-,האָדיע קוקנ אפ די שטערנ,
+האָדיע קוקנ אפ די שטערנ,
 א קאָלװירט זאָל בא אונדז װערנ!
-ʜᴏᴅᴊᴇ ᴋᴜᴋɴ ᴀғ ᴅɪ šᴛᴇʀɴ,
-ᴀ ᴋᴏʟᴠɪʀᴛ ᴢᴏʟ ʙᴀ ᴜɴᴅᴢ ᴠᴇʀɴ!
 
 לאָמיר מאכנ א לעכײַיִמ
 פאר דעמ לעבנ, פאר דעמ נײַעמ.
-ʟᴏᴍɪʀ ᴍᴀxɴ ᴀ ʟᴇxᴀᴊɪᴍ
-ғᴀʀ ᴅᴇᴍ ʟᴇʙɴ, ғᴀʀ ᴅᴇᴍ ɴᴀᴊᴇᴍ.
 
 אונ דער ערשטער זאָלנ מיר כװאליענ,
 אונדזער ליבער כאװער סטאלינ.
-ᴜɴ ᴅᴇʀ ᴇʀšᴛᴇʀ ᴢᴏʟɴ ᴍɪʀ xᴠᴀʟᴊᴇɴ,
-ᴜɴᴅᴢᴇʀ ʟɪʙᴇʀ xᴀᴠᴇʀ sᴛᴀʟɪɴ.
 
 Будь здоров, товарищ Сталин!
 Мы тебя поём и хвалим.
@@ -31,6 +23,26 @@ Hear the voice of Stalin callin'.
 ғᴀʀ ᴏᴋᴛᴏʙᴇʀs ʀᴇᴠᴏʟᴊᴜᴄᴊᴇ,
 ғᴀʀ ᴅᴇᴍ sᴛᴀʟɪɴs ᴋᴏɴsᴛᴊɪᴛᴜᴄᴊᴇ!
 ```
+<pre>
+<sup>S'HOT GELEBT BA UNDZ A XAVER,</sup>
+<sup>ER IZ GEVEN A JAT A BRAVER.</sup>
+  
+<sup>HODJE KUKN AF DI ŠTERN,</sup>
+<sup>A KOLVIRT ZOL BA UNDZ VERN!</sup>
+
+<sup>LOMIR MAXN A LEXAJIM</sup>
+<sup>FAR DEM LEBN, FAR DEM NAJEM.</sup>
+  
+<sup>UN DER ERŠTER ZOLN MIR XVALJEN,</sup>
+<sup>UNDZER LIBER XAVER STALIN.</sup>
+
+<sup>-</sup>
+  
+<sup>-</sup>
+  
+<sup>FAR OKTOBERS REVOLJUCJE,</sup>
+<sup>FAR DEM STALINS KONSTITUCJE!</sup>
+</pre>
 ```
 There lived with us a comrade,
 He was a brave fellow.
