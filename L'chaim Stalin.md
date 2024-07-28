@@ -48,12 +48,12 @@ There lived with us a comrade,
 He was a brave fellow.
 
 Enough looking at the stars,
-A collective farm ought to be with us!
+A collective farm should be with us!
 
 Let's make a toast
-For the life, for the new life.
+For life, for the new.
 
-And the first we ought to praise,
+And the first one we should praise,
 Our dear comrade Stalin.
 
 Bless you, comrade Stalin!
