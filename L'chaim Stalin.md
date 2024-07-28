@@ -26,20 +26,20 @@ Hear the voice of Stalin callin'.
 <pre>
 <sup>S'HOT GELEBT BA UNDZ A XAVER,</sup>
 <sup>ER IZ GEVEN A JAT A BRAVER.</sup>
-  
+
 <sup>HODJE KUKN AF DI ŠTERN,</sup>
 <sup>A KOLVIRT ZOL BA UNDZ VERN!</sup>
 
 <sup>LOMIR MAXN A LEXAJIM</sup>
 <sup>FAR DEM LEBN, FAR DEM NAJEM.</sup>
-  
+
 <sup>UN DER ERŠTER ZOLN MIR XVALJEN,</sup>
 <sup>UNDZER LIBER XAVER STALIN.</sup>
 
 <sup>-</sup>
-  
+
 <sup>-</sup>
-  
+
 <sup>FAR OKTOBERS REVOLJUCJE,</sup>
 <sup>FAR DEM STALINS KONSTITUCJE!</sup>
 </pre>
